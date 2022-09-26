@@ -1,0 +1,13 @@
+c:\users\karinag\documents\visual studio 2013\Projects\ConsAppBanco\ConsAppBanco\bin\Debug\ConsAppBanco.exe.config
+c:\users\karinag\documents\visual studio 2013\Projects\ConsAppBanco\ConsAppBanco\bin\Debug\ConsAppBanco.exe
+c:\users\karinag\documents\visual studio 2013\Projects\ConsAppBanco\ConsAppBanco\bin\Debug\ConsAppBanco.pdb
+c:\users\karinag\documents\visual studio 2013\Projects\ConsAppBanco\ConsAppBanco\obj\Debug\ConsAppBanco.csprojResolveAssemblyReference.cache
+c:\users\karinag\documents\visual studio 2013\Projects\ConsAppBanco\ConsAppBanco\obj\Debug\ConsAppBanco.exe
+c:\users\karinag\documents\visual studio 2013\Projects\ConsAppBanco\ConsAppBanco\obj\Debug\ConsAppBanco.pdb
+C:\Users\Luis\Desktop\ConsAppBanco\ConsAppBanco\bin\Debug\ConsAppBanco.exe.config
+C:\Users\Luis\Desktop\ConsAppBanco\ConsAppBanco\bin\Debug\ConsAppBanco.exe
+C:\Users\Luis\Desktop\ConsAppBanco\ConsAppBanco\bin\Debug\ConsAppBanco.pdb
+C:\Users\Luis\Desktop\ConsAppBanco\ConsAppBanco\obj\Debug\ConsAppBanco.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\ConsAppBanco\ConsAppBanco\obj\Debug\ConsAppBanco.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\ConsAppBanco\ConsAppBanco\obj\Debug\ConsAppBanco.exe
+C:\Users\Luis\Desktop\ConsAppBanco\ConsAppBanco\obj\Debug\ConsAppBanco.pdb

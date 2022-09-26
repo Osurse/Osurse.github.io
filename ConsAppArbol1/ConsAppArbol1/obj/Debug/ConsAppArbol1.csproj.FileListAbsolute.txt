@@ -1,0 +1,13 @@
+c:\users\karinag\documents\visual studio 2013\Projects\ConsAppArbol1\ConsAppArbol1\bin\Debug\ConsAppArbol1.exe.config
+c:\users\karinag\documents\visual studio 2013\Projects\ConsAppArbol1\ConsAppArbol1\bin\Debug\ConsAppArbol1.exe
+c:\users\karinag\documents\visual studio 2013\Projects\ConsAppArbol1\ConsAppArbol1\bin\Debug\ConsAppArbol1.pdb
+c:\users\karinag\documents\visual studio 2013\Projects\ConsAppArbol1\ConsAppArbol1\obj\Debug\ConsAppArbol1.csprojResolveAssemblyReference.cache
+c:\users\karinag\documents\visual studio 2013\Projects\ConsAppArbol1\ConsAppArbol1\obj\Debug\ConsAppArbol1.exe
+c:\users\karinag\documents\visual studio 2013\Projects\ConsAppArbol1\ConsAppArbol1\obj\Debug\ConsAppArbol1.pdb
+C:\Users\Luis\Desktop\ConsAppArbol1\ConsAppArbol1\bin\Debug\ConsAppArbol1.exe.config
+C:\Users\Luis\Desktop\ConsAppArbol1\ConsAppArbol1\bin\Debug\ConsAppArbol1.exe
+C:\Users\Luis\Desktop\ConsAppArbol1\ConsAppArbol1\bin\Debug\ConsAppArbol1.pdb
+C:\Users\Luis\Desktop\ConsAppArbol1\ConsAppArbol1\obj\Debug\ConsAppArbol1.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\ConsAppArbol1\ConsAppArbol1\obj\Debug\ConsAppArbol1.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\ConsAppArbol1\ConsAppArbol1\obj\Debug\ConsAppArbol1.exe
+C:\Users\Luis\Desktop\ConsAppArbol1\ConsAppArbol1\obj\Debug\ConsAppArbol1.pdb
